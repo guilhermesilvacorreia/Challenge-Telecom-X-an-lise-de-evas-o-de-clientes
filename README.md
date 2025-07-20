@@ -85,7 +85,7 @@ Com base na análise, foram propostas três estratégias de retenção:
 
 ## ✒️ Autor
 
-- **[SEU NOME]**
+- **[Guilherme Silva]**
 - [Seu LinkedIn ](www.linkedin.com/in/guilherme-silva-ti)
 - [Seu GitHub ](https://github.com/guilhermesilvacorreia)
 
